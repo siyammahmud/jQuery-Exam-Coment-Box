@@ -1,0 +1,9 @@
+body {
+	width: 1200px;
+	margin: 10px auto;
+	height: auto;
+}
+
+ol li {
+	list-style: none;
+}
